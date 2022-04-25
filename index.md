@@ -1,7 +1,6 @@
-## About Aidan Fein
+# About Aidan Fein
 
-## Not my circus
-### Not my monkey
+
 
 
 ## Welcome to GitHub Pages
